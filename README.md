@@ -1,3 +1,18 @@
+# CTC Clima React
+
+⚜️ Acerca del Proyecto Proyecto de aprendizaje realizado en el curso Desarrollo FrontEnd con React, gracias a la iniciativa de capacitación en tecnologías digitales por el Cluster Tecnológico de Catamarca (CTC).
+
+⚙️ Objetivos
+
+Usar y profundizar lo básico de React
+Aprender a usar Styled Components
+Emplear Fetch API's y ProtoTypes
+✔️ Tecnologías
+
+Javascript
+React
+
+-------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
