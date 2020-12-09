@@ -4,13 +4,13 @@
 
 ⚙️ Objetivos
 
-Usar y profundizar lo básico de React
-Aprender a usar Styled Components
-Emplear Fetch API's y ProtoTypes
+- Usar y profundizar lo básico de React
+- Aprender a usar Styled Components
+- Emplear Fetch API's y ProtoTypes
 ✔️ Tecnologías
 
-Javascript
-React
+- Javascript
+- React
 
 -------------------------------------------
 # Getting Started with Create React App
